@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclaire=self.webpackChunkclaire||[]).push([[107],{7107:function(e,c,a){a.r(c);var n=a(184);c.default=function(){return(0,n.jsx)("div",{className:"Dashboard",children:(0,n.jsx)("h1",{children:"Welcome to Login!"})})}}}]);
+//# sourceMappingURL=107.503ba5f9.chunk.js.map
